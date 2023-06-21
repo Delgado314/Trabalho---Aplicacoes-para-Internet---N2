@@ -1,0 +1,26 @@
+div.box {
+    width: 350px;
+    display: inline-block;
+      }
+body {
+      font-family: cursive;
+    }
+h1 {
+      background-color: #59c559;
+      text-align: center;
+    }
+* {
+      background-color: #a6d9a6;
+    }
+img {
+      border: 5px solid #007514;
+    }
+.rodape {
+      background-color: DarkOliveGreen;
+      height: 50px;
+      padding: 30px;
+      font-size: 20px;
+      text-align: right;
+      color: lightgrey;
+    }
+    
